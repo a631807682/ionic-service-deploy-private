@@ -1,4 +1,4 @@
-ionic-service-deploy
+ionic-service-deploy-private
 ====================
 
-App deploy service for Ionic. Official docs: http://docs.ionic.io/deploy/
+ionic add https://github.com/a631807682/ionic-service-deploy-private
